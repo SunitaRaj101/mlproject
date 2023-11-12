@@ -1,0 +1,5 @@
+outs:
+- md5: 3b421b000ac84221bc75b0ffd17cc0e7.dir
+  nfiles: 3
+  hash: md5
+  path: artifacts
