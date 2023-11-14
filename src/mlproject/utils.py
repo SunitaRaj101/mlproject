@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import r2_score
 import pymysql
-import pandas as pd
+
 import pickle
 import numpy as np
 
